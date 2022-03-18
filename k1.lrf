@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <LazReport>
+    <Version Value="23"/>
+    <Title Value=""/>
+    <Subject Value=""/>
+    <KeyWords Value=""/>
+    <Comments Value=""/>
+    <Pages>
+      <PrintToDefault Value="False"/>
+      <DoublePass Value="False"/>
+      <SelectedPrinter Value="\\A-SLAVCHEV\hp LaserJet 1010 Series Driver"/>
+      <PageCount Value="1"/>
+      <Page1>
+        <Name Value="Page1"/>
+        <ClassName Value="TfrPageReport"/>
+        <Visible Value="1"/>
+        <Width Value="4768"/>
+        <Height Value="6746"/>
+        <PgSize Value="9"/>
+        <Margins>
+          <left Value="108"/>
+          <Top Value="36"/>
+          <Right Value="36"/>
+          <Bottom Value="36"/>
+        </Margins>
+        <Orientation Value="poPortrait"/>
+        <UseMargins Value="True"/>
+        <PrintToPrevPage Value="False"/>
+        <ColCount Value="1"/>
+        <ColGap Value="0"/>
+        <ObjectCount Value="2"/>
+        <Object1>
+          <Name Value="Memo9"/>
+          <ClassName Value="TfrMemoView"/>
+          <Visible Value="1"/>
+          <Typ Value="gtMemo"/>
+          <StreamMode Value="0"/>
+          <Size>
+            <Left Value="108"/>
+            <Top Value="40"/>
+            <Width Value="608"/>
+            <Height Value="30"/>
+          </Size>
+          <Flags Value="3"/>
+          <FillColor Value="clNone"/>
+          <Frames>
+            <FrameWidth Value="1"/>
+            <FrameColor Value="clBlack"/>
+            <FrameBorders Value=""/>
+            <FrameStyle Value="frsSolid"/>
+          </Frames>
+          <Data>
+            <Format Value="556"/>
+            <FormatStr Value=""/>
+            <Memo Value="Данни по компонента 1
+"/>
+            <Script Value=""/>
+          </Data>
+          <Font>
+            <Name Value="Arial"/>
+            <Size Value="18"/>
+            <Color Value="clBlack"/>
+            <Charset Value="204"/>
+            <Style Value="fsBold"/>
+          </Font>
+          <Highlight>
+            <FontStyle Value="2"/>
+            <FontColor Value="clBlack"/>
+            <FillColor Value="clWhite"/>
+            <HighlightStr Value=""/>
+          </Highlight>
+          <Alignment Value="taCenter"/>
+          <Layout Value="tlCenter"/>
+          <Angle Value="0"/>
+        </Object1>
+        <Object2>
+          <Name Value="Memo10"/>
+          <ClassName Value="TfrMemoView"/>
+          <Visible Value="1"/>
+          <Typ Value="gtMemo"/>
+          <StreamMode Value="0"/>
+          <Size>
+            <Left Value="108"/>
+            <Top Value="276"/>
+            <Width Value="604"/>
+            <Height Value="502"/>
+          </Size>
+          <Flags Value="3"/>
+          <FillColor Value="clNone"/>
+          <Frames>
+            <FrameWidth Value="1"/>
+            <FrameColor Value="clNone"/>
+            <FrameBorders Value="frbLeft,frbTop,frbRight,frbBottom"/>
+            <FrameStyle Value="frsSolid"/>
+          </Frames>
+          <Data>
+            <Format Value="556"/>
+            <FormatStr Value=""/>
+            <Memo Value="Година:
+[Dbk1.&quot;YEAR&quot;]
+
+
+Спорт:
+[Dbk1.&quot;SPORT&quot;]
+
+
+Федерация:
+[Dbk1.&quot;SPORT&quot;]
+
+
+Брой участия в държавни първенства през годината:
+[Dbk1.&quot;K11&quot;]
+
+
+Брой физически лица, участвали в ДП през годината:
+[Dbk1.&quot;K12&quot;]
+
+
+Брой участия в олимпийски дисциплини през годината:
+[Dbk1.&quot;K13&quot;]
+
+
+Брой на членовете в световната федерация по вида спорт:
+[Dbk1.&quot;K14&quot;]
+"/>
+            <Script Value=""/>
+          </Data>
+          <Font>
+            <Name Value="Arial"/>
+            <Size Value="12"/>
+            <Color Value="clBlack"/>
+            <Charset Value="204"/>
+            <Style Value="fsBold"/>
+          </Font>
+          <Highlight>
+            <FontStyle Value="2"/>
+            <FontColor Value="clBlack"/>
+            <FillColor Value="clWhite"/>
+            <HighlightStr Value=""/>
+          </Highlight>
+          <Alignment Value="taLeftJustify"/>
+          <Layout Value="tlTop"/>
+          <Angle Value="0"/>
+        </Object2>
+      </Page1>
+      <FVal>
+        <Count Value="0"/>
+      </FVal>
+      <ParentVars Value=""/>
+    </Pages>
+  </LazReport>
+</CONFIG>
